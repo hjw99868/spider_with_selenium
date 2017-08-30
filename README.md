@@ -8,4 +8,8 @@
 
 * this spider doesn't use proxy, maybe there is still some problems
 
+* test.py is the main progrem
+
+* testfei.py is used to get the company name or number which will be used in test.py
+
 * just run it in pycharm
